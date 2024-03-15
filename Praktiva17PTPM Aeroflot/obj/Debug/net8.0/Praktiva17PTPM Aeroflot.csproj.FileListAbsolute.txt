@@ -1,0 +1,18 @@
+C:\Users\Bikmacs\Documents\ClassLibrary2\Praktiva17PTPM Aeroflot\bin\Debug\net8.0\Praktiva17PTPM Aeroflot.exe
+C:\Users\Bikmacs\Documents\ClassLibrary2\Praktiva17PTPM Aeroflot\bin\Debug\net8.0\Praktiva17PTPM Aeroflot.deps.json
+C:\Users\Bikmacs\Documents\ClassLibrary2\Praktiva17PTPM Aeroflot\bin\Debug\net8.0\Praktiva17PTPM Aeroflot.runtimeconfig.json
+C:\Users\Bikmacs\Documents\ClassLibrary2\Praktiva17PTPM Aeroflot\bin\Debug\net8.0\Praktiva17PTPM Aeroflot.dll
+C:\Users\Bikmacs\Documents\ClassLibrary2\Praktiva17PTPM Aeroflot\bin\Debug\net8.0\Praktiva17PTPM Aeroflot.pdb
+C:\Users\Bikmacs\Documents\ClassLibrary2\Praktiva17PTPM Aeroflot\bin\Debug\net8.0\ClassLibrary2.dll
+C:\Users\Bikmacs\Documents\ClassLibrary2\Praktiva17PTPM Aeroflot\bin\Debug\net8.0\ClassLibrary2.pdb
+C:\Users\Bikmacs\Documents\ClassLibrary2\Praktiva17PTPM Aeroflot\obj\Debug\net8.0\Praktiva17PTPM Aeroflot.csproj.AssemblyReference.cache
+C:\Users\Bikmacs\Documents\ClassLibrary2\Praktiva17PTPM Aeroflot\obj\Debug\net8.0\Praktiva17PTPM Aeroflot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bikmacs\Documents\ClassLibrary2\Praktiva17PTPM Aeroflot\obj\Debug\net8.0\Praktiva17PTPM Aeroflot.AssemblyInfoInputs.cache
+C:\Users\Bikmacs\Documents\ClassLibrary2\Praktiva17PTPM Aeroflot\obj\Debug\net8.0\Praktiva17PTPM Aeroflot.AssemblyInfo.cs
+C:\Users\Bikmacs\Documents\ClassLibrary2\Praktiva17PTPM Aeroflot\obj\Debug\net8.0\Praktiva17PTPM Aeroflot.csproj.CoreCompileInputs.cache
+C:\Users\Bikmacs\Documents\ClassLibrary2\Praktiva17PTPM Aeroflot\obj\Debug\net8.0\Praktiva.8D02EFF2.Up2Date
+C:\Users\Bikmacs\Documents\ClassLibrary2\Praktiva17PTPM Aeroflot\obj\Debug\net8.0\Praktiva17PTPM Aeroflot.dll
+C:\Users\Bikmacs\Documents\ClassLibrary2\Praktiva17PTPM Aeroflot\obj\Debug\net8.0\refint\Praktiva17PTPM Aeroflot.dll
+C:\Users\Bikmacs\Documents\ClassLibrary2\Praktiva17PTPM Aeroflot\obj\Debug\net8.0\Praktiva17PTPM Aeroflot.pdb
+C:\Users\Bikmacs\Documents\ClassLibrary2\Praktiva17PTPM Aeroflot\obj\Debug\net8.0\Praktiva17PTPM Aeroflot.genruntimeconfig.cache
+C:\Users\Bikmacs\Documents\ClassLibrary2\Praktiva17PTPM Aeroflot\obj\Debug\net8.0\ref\Praktiva17PTPM Aeroflot.dll
